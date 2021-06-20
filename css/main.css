@@ -1,0 +1,36 @@
+:root {
+  --primaryColor1: #6c648b;
+  --primaryColor2: #6bbaa7;
+  --primaryColor3: #fba100;
+  --primaryColor4: #b6a19e;
+}
+
+li {
+  list-style-type: none;
+}
+
+.card {
+  background-color: #b6a19e !important;
+  color: white !important;
+}
+
+.services .card-body {
+  background-color: #6c648b;
+}
+
+.services .stretched-link {
+  background-color: #b6a19e !important;
+}
+
+table {
+  color: white !important;
+  /* background-color: #6c648b; */
+}
+
+img.card-img-top {
+  height: 15em;
+}
+
+form button {
+  background-color: #6c648b !important;
+}

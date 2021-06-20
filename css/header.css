@@ -1,0 +1,32 @@
+.header-css {
+  /* background-color: #2F363B; */
+  background-color: #6c648b;
+}
+
+a.navbar-brand.logo {
+  color: white !important;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.logo span {
+  /* color: #3ECB00; */
+  color: #b6a19e !important;
+}
+
+nav .username {
+  color: white !important;
+}
+
+nav .username span.useravatar {
+  background-color: #b6a19e !important;
+}
+
+.logoicon {
+  height: 3rem;
+  width: 3rem;
+}
+
+a.dropdown-item {
+  background-color: #6c648b !important;
+}
